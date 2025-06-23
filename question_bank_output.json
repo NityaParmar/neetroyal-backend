@@ -1,0 +1,457 @@
+{
+  "difficulty": "Hard",
+  "questions": [
+    {
+      "answer": "B. 14 m/s²",
+      "options": [
+        "A. 10 m/s²",
+        "B. 14 m/s²",
+        "C. 20 m/s²",
+        "D. 26 m/s²"
+      ],
+      "question": "A particle moves along a curve with a velocity given by v = (2t^3 - 6t) i + (3t^2 + 2) j m/s.  Find the magnitude of its acceleration at t = 2s."
+    },
+    {
+      "answer": "A. mg(sinθ - μcosθ)",
+      "options": [
+        "A. mg(sinθ - μcosθ)",
+        "B. mg(sinθ + μcosθ)",
+        "C. mg(cosθ - μsinθ)",
+        "D. mg(cosθ + μsinθ)"
+      ],
+      "question": "A block of mass m is placed on a rough inclined plane with an angle θ. The coefficient of friction is μ.  What is the minimum force required to prevent the block from sliding down?"
+    },
+    {
+      "answer": "A. The satellite at the lower altitude",
+      "options": [
+        "A. The satellite at the lower altitude",
+        "B. The satellite at the higher altitude",
+        "C. Both have the same kinetic energy",
+        "D. Cannot be determined without knowing the masses"
+      ],
+      "question": "Two satellites of equal mass are orbiting the Earth at different altitudes.  Which satellite has a greater kinetic energy?"
+    },
+    {
+      "answer": "B. 2π√(L/(g+a))",
+      "options": [
+        "A. 2π√(L/g)",
+        "B. 2π√(L/(g+a))",
+        "C. 2π√(L/(g-a))",
+        "D. 2π√((g+a)/L)"
+      ],
+      "question": "A simple pendulum of length L is oscillating in a lift which is accelerating upwards with acceleration a. What is the time period of the pendulum?"
+    },
+    {
+      "answer": "C. Circle",
+      "options": [
+        "A. Straight line",
+        "B. Parabola",
+        "C. Circle",
+        "D. Ellipse"
+      ],
+      "question": "A charged particle enters a region with a uniform magnetic field perpendicular to its velocity.  What is the shape of its trajectory?"
+    },
+    {
+      "answer": "B. Path difference = nλ",
+      "options": [
+        "A. Path difference = (n+1/2)λ",
+        "B. Path difference = nλ",
+        "C. Path difference = (2n+1)λ/2",
+        "D. Path difference = λ/4"
+      ],
+      "question": "What is the condition for constructive interference of two waves?"
+    },
+    {
+      "answer": "B. CV²/2",
+      "options": [
+        "A. CV",
+        "B. CV²/2",
+        "C. CV²/4",
+        "D. C²V/2"
+      ],
+      "question": "A capacitor of capacitance C is charged to a potential V. What is the energy stored in the capacitor?"
+    },
+    {
+      "answer": "A. 10 years",
+      "options": [
+        "A. 10 years",
+        "B. 15 years",
+        "C. 20 years",
+        "D. 25 years"
+      ],
+      "question": "A radioactive substance decays to 1/8th of its initial value in 30 years.  Find its half-life."
+    },
+    {
+      "answer": "C. f1f2/(f1 + f2)",
+      "options": [
+        "A. f1 + f2",
+        "B. f1 - f2",
+        "C. f1f2/(f1 + f2)",
+        "D. (f1 + f2)/f1f2"
+      ],
+      "question": "Two lenses of focal lengths f1 and f2 are placed in contact. What is the effective focal length?"
+    },
+    {
+      "answer": "A. u²sin²θ/2g",
+      "options": [
+        "A. u²sin²θ/2g",
+        "B. u²cos²θ/2g",
+        "C. u²sinθ/g",
+        "D. u²cosθ/g"
+      ],
+      "question": "A body is projected with velocity u at an angle θ with the horizontal. What is its maximum height?"
+    },
+    {
+      "answer": "B. ω/k",
+      "options": [
+        "A. k/ω",
+        "B. ω/k",
+        "C. kω",
+        "D. Aω"
+      ],
+      "question": "A wave is represented by y = A sin(kx - ωt). What is its velocity?"
+    },
+    {
+      "answer": "B. Path difference = (n+1/2)λ",
+      "options": [
+        "A. Path difference = nλ",
+        "B. Path difference = (n+1/2)λ",
+        "C. Path difference = 2nλ",
+        "D. Path difference = λ/2"
+      ],
+      "question": "In Young's double slit experiment, what is the condition for a dark fringe?"
+    },
+    {
+      "answer": "D. Mirage",
+      "options": [
+        "A. Diffraction",
+        "B. Interference",
+        "C. Dispersion",
+        "D. Mirage"
+      ],
+      "question": "What is the phenomenon where an object appears to be at a different position than its actual position due to refraction?"
+    },
+    {
+      "answer": "A. F = BIL sin θ",
+      "options": [
+        "A. F = BIL sin θ",
+        "B. F = BIL cos θ",
+        "C. F = BIL tan θ",
+        "D. F = BIL cot θ"
+      ],
+      "question": "A current carrying conductor is placed in a magnetic field. What is the force acting on it?"
+    },
+    {
+      "answer": "C. Voltage",
+      "options": [
+        "A. Frequency",
+        "B. Phase",
+        "C. Voltage",
+        "D. Current"
+      ],
+      "question": "A transformer is used to change the ____ of alternating current."
+    },
+    {
+      "answer": "A. Weber",
+      "options": [
+        "A. Weber",
+        "B. Tesla",
+        "C. Gauss",
+        "D. Ampere"
+      ],
+      "question": "What is the unit of magnetic flux?"
+    },
+    {
+      "answer": "A. 11.2 km/s",
+      "options": [
+        "A. 11.2 km/s",
+        "B. 7.9 km/s",
+        "C. 5.6 km/s",
+        "D. 3.5 km/s"
+      ],
+      "question": "The escape velocity from the Earth's surface is approximately:"
+    },
+    {
+      "answer": "C. Diffraction",
+      "options": [
+        "A. Reflection",
+        "B. Refraction",
+        "C. Diffraction",
+        "D. Polarization"
+      ],
+      "question": "What is the phenomenon of bending of light around corners called?"
+    },
+    {
+      "answer": "D. Frictional force",
+      "options": [
+        "A. Gravitational force",
+        "B. Electromagnetic force",
+        "C. Strong nuclear force",
+        "D. Frictional force"
+      ],
+      "question": "Which of the following is not a fundamental force?"
+    },
+    {
+      "answer": "D. Linear waves and linear systems",
+      "options": [
+        "A.  Only gravitational forces",
+        "B. Only electromagnetic forces",
+        "C. Linear waves only",
+        "D. Linear waves and linear systems"
+      ],
+      "question": "The principle of superposition applies to:"
+    },
+    {
+      "answer": "C. 1 - T2/T1",
+      "options": [
+        "A. 1 - T1/T2",
+        "B. 1 + T1/T2",
+        "C. 1 - T2/T1",
+        "D. 1 + T2/T1"
+      ],
+      "question": "A Carnot engine operates between two reservoirs at temperatures T1 and T2 (T1 > T2). Its efficiency is given by:"
+    },
+    {
+      "answer": "A. h/√(2meV)",
+      "options": [
+        "A. h/√(2meV)",
+        "B. h/√(meV)",
+        "C. h√(2meV)",
+        "D. h√(meV)"
+      ],
+      "question": "What is the de Broglie wavelength of an electron accelerated through a potential difference of V volts?"
+    },
+    {
+      "answer": "B. Becquerel",
+      "options": [
+        "A. Rutherford",
+        "B. Becquerel",
+        "C. Curie",
+        "D. Einstein"
+      ],
+      "question": "The phenomenon of radioactivity was discovered by:"
+    },
+    {
+      "answer": "C. Voltage regulator",
+      "options": [
+        "A. Rectifier",
+        "B. Amplifier",
+        "C. Voltage regulator",
+        "D. Oscillator"
+      ],
+      "question": "A Zener diode is used as a:"
+    },
+    {
+      "answer": "D. Energy",
+      "options": [
+        "A. Velocity",
+        "B. Acceleration",
+        "C. Force",
+        "D. Energy"
+      ],
+      "question": "Which of the following is a scalar quantity?"
+    },
+    {
+      "answer": "B. Watt",
+      "options": [
+        "A. Joule",
+        "B. Watt",
+        "C. Newton",
+        "D. Pascal"
+      ],
+      "question": "What is the SI unit of power?"
+    },
+    {
+      "answer": "C. 2q/4πε₀a²",
+      "options": [
+        "A. Zero",
+        "B. q/4πε₀a²",
+        "C. 2q/4πε₀a²",
+        "D. 4q/4πε₀a²"
+      ],
+      "question": "Two point charges +q and -q are separated by a distance 2a. What is the electric field at a point midway between them?"
+    },
+    {
+      "answer": "B. Transverse waves",
+      "options": [
+        "A. Longitudinal waves",
+        "B. Transverse waves",
+        "C. Both longitudinal and transverse waves",
+        "D. Neither longitudinal nor transverse waves"
+      ],
+      "question": "The phenomenon of polarization is exhibited by:"
+    },
+    {
+      "answer": "B. (A1/A2)^(1/3)",
+      "options": [
+        "A. A1/A2",
+        "B. (A1/A2)^(1/3)",
+        "C. (A1/A2)^(2/3)",
+        "D. (A1/A2)^(3)"
+      ],
+      "question": "What is the ratio of the nuclear radius of two nuclei with mass numbers A1 and A2?"
+    },
+    {
+      "answer": "A. 36,000 km",
+      "options": [
+        "A. 36,000 km",
+        "B. 10,000 km",
+        "C. 20,000 km",
+        "D. 50,000 km"
+      ],
+      "question": "A geostationary satellite orbits the Earth at a distance of approximately:"
+    },
+    {
+      "answer": "C. Strong nuclear force",
+      "options": [
+        "A. Gravitational force",
+        "B. Electromagnetic force",
+        "C. Strong nuclear force",
+        "D. Weak nuclear force"
+      ],
+      "question": "What is the name of the force responsible for holding the nucleus together?"
+    },
+    {
+      "answer": "C. T√2",
+      "options": [
+        "A. T/√2",
+        "B. T",
+        "C. T√2",
+        "D. 2T"
+      ],
+      "question": "A mass attached to a spring oscillates with a period T. If the mass is doubled, what is the new period?"
+    },
+    {
+      "answer": "C. Refraction",
+      "options": [
+        "A. Diffraction",
+        "B. Interference",
+        "C. Refraction",
+        "D. Dispersion"
+      ],
+      "question": "What is the phenomenon where the speed of light changes as it passes from one medium to another?"
+    },
+    {
+      "answer": "C. Watt",
+      "options": [
+        "A. Joule",
+        "B. Erg",
+        "C. Watt",
+        "D. Calorie"
+      ],
+      "question": "Which of the following is NOT a unit of energy?"
+    },
+    {
+      "answer": "B. Convection",
+      "options": [
+        "A. Conduction",
+        "B. Convection",
+        "C. Radiation",
+        "D. Diffusion"
+      ],
+      "question": "What is the process by which heat is transferred through the movement of fluids?"
+    },
+    {
+      "answer": "B. Friction",
+      "options": [
+        "A. Gravitational force",
+        "B. Friction",
+        "C. Tension",
+        "D. Normal force"
+      ],
+      "question": "What is the name of the force which opposes motion between surfaces in contact?"
+    },
+    {
+      "answer": "A. XL = XC",
+      "options": [
+        "A. XL = XC",
+        "B. XL > XC",
+        "C. XL < XC",
+        "D. XL = R"
+      ],
+      "question": "In a series RLC circuit, what is the condition for resonance?"
+    },
+    {
+      "answer": "C. 3 x 10^8 m/s",
+      "options": [
+        "A. 3 x 10^5 m/s",
+        "B. 3 x 10^7 m/s",
+        "C. 3 x 10^8 m/s",
+        "D. 3 x 10^9 m/s"
+      ],
+      "question": "What is the speed of light in vacuum?"
+    },
+    {
+      "answer": "C. Remove an electron from the metal surface",
+      "options": [
+        "A. Ionize an atom",
+        "B. Excite an electron",
+        "C. Remove an electron from the metal surface",
+        "D. Form a chemical bond"
+      ],
+      "question": "The work function of a metal is the minimum energy required to:"
+    },
+    {
+      "answer": "C. Coulomb",
+      "options": [
+        "A. Volt",
+        "B. Ampere",
+        "C. Coulomb",
+        "D. Ohm"
+      ],
+      "question": "What is the SI unit of electric charge?"
+    },
+    {
+      "answer": "C. Sound waves",
+      "options": [
+        "A. X-rays",
+        "B. Gamma rays",
+        "C. Sound waves",
+        "D. Radio waves"
+      ],
+      "question": "Which of the following is not an electromagnetic wave?"
+    },
+    {
+      "answer": "B. Inductance",
+      "options": [
+        "A. Capacitance",
+        "B. Inductance",
+        "C. Resistance",
+        "D. Impedance"
+      ],
+      "question": "What is the phenomenon where the magnetic flux through a circuit changes, inducing an electromotive force?"
+    },
+    {
+      "answer": "B. Convex lens",
+      "options": [
+        "A. Concave lens",
+        "B. Convex lens",
+        "C. Plano-convex lens",
+        "D. Plano-concave lens"
+      ],
+      "question": "A lens with a positive focal length is called a:"
+    },
+    {
+      "answer": "A. Hertz",
+      "options": [
+        "A. Hertz",
+        "B. Second",
+        "C. Meter",
+        "D. Joule"
+      ],
+      "question": "What is the unit of frequency?"
+    },
+    {
+      "answer": "B. Concave lens",
+      "options": [
+        "A. Convex lens",
+        "B. Concave lens",
+        "C. Cylindrical lens",
+        "D. Bifocal lens"
+      ],
+      "question": "What type of lens is used to correct myopia?"
+    }
+  ],
+  "topic": "Physics",
+  "total_questions": 45
+}
